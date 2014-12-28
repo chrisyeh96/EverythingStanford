@@ -1,0 +1,49 @@
+body {
+  background-color: #F9F9F9;
+}
+
+.header {
+  margin-top: 15px;
+}
+
+.header > div {
+  margin-bottom: 15px;
+}
+
+#title img{
+  margin-right: 10px;
+}
+
+#title > div {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 250%;
+}
+
+.siteImage {
+  height: 100px;
+  background-color: #8C1515;
+  position: relative;
+  border-radius: 10px;
+  text-align: center;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+.siteImage img {
+  max-height: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.altText {
+  color: white;
+  line-height: 100px;
+  font-size: 200%;
+}

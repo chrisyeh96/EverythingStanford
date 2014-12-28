@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>Home Page</title>
+  
+  <!-- CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/weather.css">
+  
+  <!-- JS -->
+	<!-- load AngularJS, and own Angular app -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+  <script src="js/app.js"></script>
+</head>
+<body ng-app="Stanford">
+<div ng-controller="MainController" class="container">
+  <div class="header">
+    <div id="title" class="col-sm-6">
+      <div><a href="http://www.stanford.edu/"><img src="images/StanfordCardinal.png" height="100" align="center"></a></div>
+      <div>Everything Stanford</div>
+    </div>
+    <div id="weatherContainer" class="col-sm-5 col-sm-offset-1">
+      <div id="weather"></div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div ng-repeat-start="site in StanfordSites" class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+    <a ng-href="{{site.link}}">
+      <div class="siteImage">
+        <img ng-hide="{{site.image==''}}" ng-src="{{'images/'+site.image}}">
+        <div ng-show="{{site.image==''}}" class="altText">{{site.alt}}</div>
+      </div>
+    </a>
+    <div class="caption">
+      <h4>{{site.name}}</h4>
+      <p class="hidden-xs">{{site.caption}}</p>
+    </div>
+  </div>
+  <div ng-class="{clearfix: $odd}" class="visible-xs-block"></div>
+  <div ng-class="{clearfix: ($index+1)%3==0}" class="visible-sm-block"></div>
+  <div ng-class="{clearfix: ($index+1)%4==0}" class="visible-md-block"></div>
+  <div ng-repeat-end="" ng-class="{clearfix: ($index+1)%6==0}" class="visible-lg-block"></div>
+</div>
+<!-- delayed loading for jQuery and weather script -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="js/weather.js"></script>
+</body>
+</html>
