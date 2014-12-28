@@ -1,7 +1,9 @@
-Everything-Stanford
+EverythingStanford
 ===================
 
 Portal for accessing everything within Stanford
+
+Hosted by GitHub Pages at http://chrisyeh96.github.io/EverythingStanford
 
 Quick access to the following:
 * Stanford Homepage
