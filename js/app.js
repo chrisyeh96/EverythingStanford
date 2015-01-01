@@ -85,7 +85,7 @@
         image: 'Printing.png',
         alt: 'Stanford Printing',
         link: 'https://printing.stanford.edu/',
-        caption: 'Manage Stanford printing'
+        caption: 'Manage Stanford printing (requires connection to Stanford network or VPN)'
       },
       {
         name: 'Cardinal Sync',
@@ -93,6 +93,13 @@
         alt: 'Cardinal Sync',
         link: 'https://orgsync.com/home/521',
         caption: 'Clubs and activities'
+      },
+      {
+        name: 'Syllabus',
+        image: '',
+        alt: 'Syllabus',
+        link: 'https://syllabus.stanford.edu/',
+        caption: 'View syllabi from current and previous courses'
       },
       {
         name: 'Stanford Bookstore',
