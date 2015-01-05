@@ -151,11 +151,11 @@
         caption: 'Search Stanford libraries'
       },
       {
-        name: 'Stanford Network Search',
+        name: 'Stanford What',
         image: '',
         alt: 'Stanford Network Search',
         link: 'https://web.stanford.edu/group/networking/cgi-bin/stanford-what/lookup.cgi',
-        caption: 'Get network info about devices connected to Stanford\'s University Network, SUNet.'
+        caption: 'Network info about devices connected to Stanford\'s Network.'
       }
     ];
     return StanfordSites;
