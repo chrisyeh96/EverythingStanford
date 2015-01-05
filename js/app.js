@@ -149,6 +149,13 @@
         alt: 'Stanford University Libraries',
         link: 'http://library.stanford.edu/',
         caption: 'Search Stanford libraries'
+      },
+      {
+        name: 'Stanford Network Search',
+        image: '',
+        alt: 'Stanford Network Search',
+        link: 'https://web.stanford.edu/group/networking/cgi-bin/stanford-what/lookup.cgi',
+        caption: 'Get network info about devices connected to Stanford\'s University Network, SUNet.'
       }
     ];
     return StanfordSites;
