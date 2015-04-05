@@ -19,10 +19,13 @@ Quick access to the following:
 * Laundry Alert
 * Stanford Printing
 * Cardinal Sync
+* Sportifik
+* Syllabus
 * Stanford Bookstore
 * CourseCycle
 * Treeviews
 * Free Food @ Stanford
 * Stanford RedZone
-* Stanford Campus Map
-* Stanford University Libraries
+* Campus Map
+* Stanford Libraries
+* Stanford What
