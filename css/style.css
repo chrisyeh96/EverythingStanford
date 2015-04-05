@@ -1,5 +1,5 @@
 body {
-  background-color: #F9F9F9;
+  background-color: #F2F1EB;
 }
 
 .header {
@@ -10,7 +10,7 @@ body {
   margin-bottom: 15px;
 }
 
-#title img{
+#title img {
   margin-right: 10px;
 }
 
@@ -30,7 +30,9 @@ body {
   width: 100%;
 }
 
-a, a:hover {
+a,
+a:focus,
+a:hover {
   text-decoration: none;
 }
 

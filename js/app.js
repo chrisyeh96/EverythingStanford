@@ -64,7 +64,7 @@
         image: 'StanfordWho.png',
         alt: 'Stanford Who',
         link: 'https://stanfordwho.stanford.edu/SWApp/jsp/stanford/stanford_index.jsp',
-        caption: 'Search the Stanford directory for students, faculty, and staff'
+        caption: 'Stanford directory for students, faculty, and staff'
       },
       {
         name: 'Cardinal Caeers',
@@ -95,8 +95,15 @@
         caption: 'Clubs and activities'
       },
       {
+        name: 'Sportifik',
+        image: 'sportifik.png',
+        alt: 'Sportifik',
+        link: 'https://www.sportifik.com/',
+        caption: 'Stanford IM Sports'
+      },
+      {
         name: 'Syllabus',
-        image: '',
+        image: 'syllabus.png',
         alt: 'Syllabus',
         link: 'https://syllabus.stanford.edu/',
         caption: 'View syllabi from current and previous courses'
