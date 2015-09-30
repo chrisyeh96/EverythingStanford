@@ -14,6 +14,8 @@ Quick access to the following:
 * ExploreCourses
 * ExploreDegrees
 * Piazza
+* Scoryst
+* Gradescope
 * Stanford Who
 * Cardinal Careers
 * Laundry Alert

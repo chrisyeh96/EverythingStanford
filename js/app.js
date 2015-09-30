@@ -60,6 +60,20 @@
         caption: 'Class forum'
       },
       {
+        name: 'Scoryst',
+        image: 'scoryst.png',
+        alt: 'Scoryst',
+        link: 'https://scoryst.com/',
+        caption: 'Online grading'
+      },
+      {
+        name: 'Gradescope',
+        image: 'gradescope.png',
+        alt: 'Gradescope',
+        link: 'https://gradescope.com/',
+        caption: 'Online grading'
+      },
+      {
         name: 'Stanford Who',
         image: 'StanfordWho.png',
         alt: 'Stanford Who',
