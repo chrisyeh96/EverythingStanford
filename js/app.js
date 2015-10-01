@@ -81,10 +81,10 @@
         caption: 'Stanford directory for students, faculty, and staff'
       },
       {
-        name: 'Cardinal Caeers',
-        image: 'StanfordCDC.png',
-        alt: 'Cardinal Careers',
-        link: 'https://stanford-csm.symplicity.com/students/index.php?s=home',
+        name: 'Handshake',
+        image: 'handshake.png',
+        alt: 'Handshake',
+        link: 'https://stanford.joinhandshake.com/',
         caption: 'Job and internship listings'
       },
       {

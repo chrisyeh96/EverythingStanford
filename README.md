@@ -17,7 +17,7 @@ Quick access to the following:
 * Scoryst
 * Gradescope
 * Stanford Who
-* Cardinal Careers
+* Handshake
 * Laundry Alert
 * Stanford Printing
 * Cardinal Sync
