@@ -14,19 +14,16 @@ Quick access to the following:
 * ExploreCourses
 * ExploreDegrees
 * Piazza
-* Scoryst
 * Gradescope
 * Stanford Who
 * Handshake
 * Laundry Alert
-* Stanford Printing
 * Cardinal Sync
 * Sportifik
 * Syllabus
 * Stanford Bookstore
 * CourseCycle
 * Treeviews
-* Free Food @ Stanford
 * Stanford RedZone
 * Campus Map
 * Stanford Libraries

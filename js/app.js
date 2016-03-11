@@ -60,13 +60,6 @@
         caption: 'Class forum'
       },
       {
-        name: 'Scoryst',
-        image: 'scoryst.png',
-        alt: 'Scoryst',
-        link: 'https://scoryst.com/',
-        caption: 'Online grading'
-      },
-      {
         name: 'Gradescope',
         image: 'gradescope.png',
         alt: 'Gradescope',
@@ -93,13 +86,6 @@
         alt: 'Laundry Alert',
         link: 'https://www.laundryalert.com/cgi-bin/STAN9568/LMPage',
         caption: 'Check washing machine and dryer availability'
-      },
-      {
-        name: 'Stanford Printing',
-        image: 'Printing.png',
-        alt: 'Stanford Printing',
-        link: 'https://printing.stanford.edu/',
-        caption: 'Manage Stanford printing (requires connection to Stanford network or VPN)'
       },
       {
         name: 'Cardinal Sync',
@@ -142,13 +128,6 @@
         alt: 'Treeviews',
         link: 'http://treeviews.io/',
         caption: 'Course reviews'
-      },
-      {
-        name: 'Free Food at Stanford',
-        image: 'freefoodstanford.png',
-        alt: 'Free Food at Stanford',
-        link: 'http://www.freefoodstanford.com/',
-        caption: 'Find opportunities to get free food on campus'
       },
       {
         name: 'RedZone',
