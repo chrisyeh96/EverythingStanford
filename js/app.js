@@ -53,6 +53,20 @@
         caption: 'Look up information about degree requirements'
       },
       {
+        name: 'Canvas',
+        image: 'canvas.png',
+        alt: 'Canvas',
+        link: 'https://canvas.stanford.edu/',
+        caption: 'Manage classes'
+      },
+      {
+        name: 'Carta',
+        image: '',
+        alt: 'Carta',
+        link: 'https://carta.stanford.edu/',
+        caption: 'Access official course grades and instructor evaluations'
+      },
+      {
         name: 'Piazza',
         image: 'Piazza.png',
         alt: 'Piazza',
