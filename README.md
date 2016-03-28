@@ -13,6 +13,8 @@ Quick access to the following:
 * SimpleEnroll
 * ExploreCourses
 * ExploreDegrees
+* Canvas
+* Carta
 * Piazza
 * Gradescope
 * Stanford Who
