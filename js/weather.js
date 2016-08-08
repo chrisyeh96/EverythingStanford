@@ -7,7 +7,7 @@ $(document).ready(function() {
     woeid: '',
     unit: 'f',
     success: function(weather) {
-      html = '<h1><span id="weatherIcon" class="icon-'+weather.code+'"n></span> '+weather.temp+'&deg;'+weather.units.temp+'</h1>';
+      html = '<h1><span id="weatherIcon" class="icon-'+weather.code+'"></span> '+weather.temp+'&deg;'+weather.units.temp+'</h1>';
       html += '<ul><li>H '+weather.high+'&deg; / L '+weather.low +'&deg;</li>';
       // html += '<li>'+weather.city+', '+weather.region+'</li>';
       html += '<li class="currently">'+weather.currently+'</li>';
