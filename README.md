@@ -14,9 +14,11 @@ Quick access to the following:
 * ExploreCourses
 * ExploreDegrees
 * Canvas
-* Carta
 * Piazza
+* Carta
+* Edusalsa
 * Gradescope
+* 25Live
 * Stanford Who
 * Handshake
 * Laundry Alert
@@ -24,8 +26,6 @@ Quick access to the following:
 * Sportifik
 * Syllabus
 * Stanford Bookstore
-* CourseCycle
-* Treeviews
 * Stanford RedZone
 * Campus Map
 * Stanford Libraries

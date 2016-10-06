@@ -60,13 +60,6 @@
         caption: 'Manage classes'
       },
       {
-        name: 'Carta',
-        image: '',
-        alt: 'Carta',
-        link: 'https://carta.stanford.edu/',
-        caption: 'Access official course grades and instructor evaluations'
-      },
-      {
         name: 'Piazza',
         image: 'Piazza.png',
         alt: 'Piazza',
@@ -74,11 +67,32 @@
         caption: 'Class forum'
       },
       {
+        name: 'Carta',
+        image: 'carta.png',
+        alt: 'Carta',
+        link: 'https://carta.stanford.edu/',
+        caption: 'Access official course grades and instructor evaluations'
+      },
+      {
+        name: 'edusalsa',
+        image: 'edusalsa.png',
+        alt: 'edusalsa',
+        link: 'https://www.edusalsa.com/',
+        caption: 'Stanford course reviews'
+      },
+      {
         name: 'Gradescope',
         image: 'gradescope.png',
         alt: 'Gradescope',
         link: 'https://gradescope.com/',
         caption: 'Online grading'
+      },
+      {
+        name: '25Live',
+        image: '25live.png',
+        alt: '25Live',
+        link: 'https://scheduling.stanford.edu/',
+        caption: 'Reserve rooms and spaces'
       },
       {
         name: 'Stanford Who',
@@ -128,20 +142,6 @@
         alt: 'Stanford Bookstore',
         link: 'http://stanford.bkstr.com/',
         caption: 'Purchase books, supplies, and Cardinal gear'
-      },
-      {
-        name: 'CourseCycle',
-        image: 'CourseCycle.png',
-        alt: 'CourseCycle',
-        link: 'http://www.coursecycle.com/',
-        caption: 'Course reviews'
-      },
-      {
-        name: 'Treeviews',
-        image: '',
-        alt: 'Treeviews',
-        link: 'http://treeviews.io/',
-        caption: 'Course reviews'
       },
       {
         name: 'RedZone',
