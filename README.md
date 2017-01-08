@@ -8,12 +8,11 @@ Hosted by GitHub Pages at http://chrisyeh96.github.io/EverythingStanford
 Quick access to the following:
 * Stanford Homepage
 * Stanford Webmail
-* Coursework
 * Axess
+* Canvas
 * SimpleEnroll
 * ExploreCourses
 * ExploreDegrees
-* Canvas
 * Piazza
 * Carta
 * Edusalsa

@@ -18,18 +18,18 @@
         caption: 'Check Stanford email'
       },
       {
-        name: 'Coursework',
-        image: 'coursework.png',
-        alt: 'Coursework',
-        link: 'https://coursework.stanford.edu/',
-        caption: 'Manage classwork'
-      },
-      {
         name: 'Axess',
         image: 'Axess.png',
         alt: 'Axess',
         link: 'https://axess.sahr.stanford.edu/',
         caption: 'Centralized academic information'
+      },
+      {
+        name: 'Canvas',
+        image: 'canvas.png',
+        alt: 'Canvas',
+        link: 'https://canvas.stanford.edu/',
+        caption: 'Manage classes'
       },
       {
         name: 'SimpleEnroll',
@@ -51,13 +51,6 @@
         alt: 'ExploreDegrees',
         link: 'http://exploredegrees.stanford.edu/',
         caption: 'Look up information about degree requirements'
-      },
-      {
-        name: 'Canvas',
-        image: 'canvas.png',
-        alt: 'Canvas',
-        link: 'https://canvas.stanford.edu/',
-        caption: 'Manage classes'
       },
       {
         name: 'Piazza',
