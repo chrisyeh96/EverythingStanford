@@ -105,7 +105,7 @@
         name: 'Laundry Alert',
         image: 'LaundryAlert.png',
         alt: 'Laundry Alert',
-        link: 'https://www.laundryalert.com/cgi-bin/STAN9568/LMPage',
+        link: 'https://laundryalert.stanford.edu/',
         caption: 'Check washing machine and dryer availability'
       },
       {
