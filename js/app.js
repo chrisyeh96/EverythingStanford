@@ -21,7 +21,7 @@
         name: 'Axess',
         image: 'Axess.png',
         alt: 'Axess',
-        link: 'https://axess.sahr.stanford.edu/',
+        link: 'https://axess.sahr.stanford.edu/group/guest',
         caption: 'Centralized academic information'
       },
       {
@@ -116,10 +116,10 @@
         caption: 'Clubs and activities'
       },
       {
-        name: 'Sportifik',
-        image: 'sportifik.png',
-        alt: 'Sportifik',
-        link: 'https://www.sportifik.com/',
+        name: 'IMLeagues',
+        image: 'imleagues.png',
+        alt: 'IMLeagues',
+        link: 'http://www.imleagues.com/spa/intramural/acded437241c4f5788e02af570767696/home',
         caption: 'Stanford IM Sports'
       },
       {
@@ -142,6 +142,13 @@
         alt: 'Stanford Redzone',
         link: 'http://www.gostanford.com/',
         caption: 'Official student fan club for Stanford Athletics'
+      },
+      {
+        name: 'Fix-It',
+        image: '',
+        alt: 'Stanford Fix-It',
+        link: 'https://fixit.stanford.edu/',
+        caption: 'Submit help tickets for facilities issues'
       },
       {
         name: 'Campus Map',

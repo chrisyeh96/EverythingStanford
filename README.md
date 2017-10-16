@@ -3,7 +3,7 @@ EverythingStanford
 
 Portal for accessing everything within Stanford
 
-Hosted by GitHub Pages at http://chrisyeh96.github.io/EverythingStanford
+Hosted by GitHub Pages at https://chrisyeh96.github.io/EverythingStanford/
 
 Quick access to the following:
 * Stanford Homepage
@@ -22,10 +22,11 @@ Quick access to the following:
 * Handshake
 * Laundry Alert
 * Cardinal Sync
-* Sportifik
+* IMLeagues
 * Syllabus
 * Stanford Bookstore
 * Stanford RedZone
+* Stanford Fix-It
 * Campus Map
 * Stanford Libraries
 * Stanford What
