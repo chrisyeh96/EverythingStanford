@@ -42,7 +42,7 @@
         name: 'ExploreCourses',
         image: 'ExploreCourses.png',
         alt: 'ExploreCourses',
-        link: 'http://explorecourses.stanford.edu/',
+        link: 'https://explorecourses.stanford.edu/',
         caption: 'Find information about course offerings'
       },
       {
@@ -119,7 +119,7 @@
         name: 'IMLeagues',
         image: 'imleagues.png',
         alt: 'IMLeagues',
-        link: 'http://www.imleagues.com/spa/intramural/acded437241c4f5788e02af570767696/home',
+        link: 'https://www.imleagues.com/Stanford',
         caption: 'Stanford IM Sports'
       },
       {
@@ -133,14 +133,14 @@
         name: 'Stanford Bookstore',
         image: 'bookstore.png',
         alt: 'Stanford Bookstore',
-        link: 'http://stanford.bkstr.com/',
+        link: 'https://www.bkstr.com/stanfordstore/',
         caption: 'Purchase books, supplies, and Cardinal gear'
       },
       {
         name: 'RedZone',
         image: 'redzone.png',
         alt: 'Stanford Redzone',
-        link: 'http://www.gostanford.com/',
+        link: 'https://gostanford.com/',
         caption: 'Official student fan club for Stanford Athletics'
       },
       {
@@ -154,21 +154,21 @@
         name: 'Campus Map',
         image: 'map.png',
         alt: 'Campus Map',
-        link: 'http://campus-map.stanford.edu/',
+        link: 'https://campus-map.stanford.edu/',
         caption: 'Searchable campus map'
       },
       {
         name: 'Stanford Libraries',
         image: 'libraries.png',
         alt: 'Stanford University Libraries',
-        link: 'http://library.stanford.edu/',
+        link: 'https://library.stanford.edu/',
         caption: 'Search Stanford libraries'
       },
       {
         name: 'Stanford What',
         image: '',
         alt: 'Stanford Network Search',
-        link: 'https://web.stanford.edu/group/networking/cgi-bin/stanford-what/lookup.cgi',
+        link: 'https://stanfordwhat.stanford.edu/',
         caption: 'Network info about devices connected to Stanford\'s Network.'
       }
     ];
